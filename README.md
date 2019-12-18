@@ -1,4 +1,5 @@
 # 8bit-Multiplier-Animation
+Base on C4D R19, Octane Render 3 and Python<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
 This work is licensed under a 
